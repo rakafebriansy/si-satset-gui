@@ -1,0 +1,102 @@
+Nama pengirim,Nama penerima,Nama barang,Jenis pengiriman,Berat barang,Ongkir,Kota awal,Kota tujuan
+Andi,Ludvi,Bantal,Reguler,2,8000,Brebes,Pekalongan
+Rina,Roni,Guling,Express,3,11000,Blora,Cilacap
+Nofi,Ayun,Kompor,Express,1,17000,Pemalang,Kendal
+Nana,Rora,Galon,Reguler,0.5,10000,Pekalongan,Demak
+Nata,Andika,Piring,Reguler,2.5,10000,Batang,Kudus
+Ami,Boy,Baju Tidur,Reguler,3,8000,Kendal,Pati
+Beta,Steven,Celana,Reguler,4,15000,Demak,Rembang
+Bagas,Kevin,Seragam Sekolah,Reguler,5,15000,Kudus,Blora
+Bila,William,Panci,Express,2,17000,Pati,Grobogan
+Caca,Silvi,Mangkok,Express,1.5,15000,Rembang,Semarang
+Cintya,Shinta,Gelas Plastik,Express,1.9,2000,Blora,Temanggung
+Cacan,Eka,Beras,Satset,2,22000,Grobogan,Wonosobo
+Cheril,Kurnia,Rak sepatu,Reguler,2.4,15000,Semarang,Wonosobo
+Mamat,Ayu,Sandal,Reguler,2.6,8000,Temanggung,Banjar
+Mita,Aulia,Gorden,Express,3,11000,Wonosobo,Purbalingga
+Mali,Samudra,Meja Lipat,Satset,1.2,18000,Banjar,Brebes
+Nana,Cantika,Tas Kulit,Satset,2,22000,Purbalingga,Tegal
+Nanda,Serena,Ransel,Express,3,15000,Banyumas,Pemalang
+Via,Monika,Koper,Express,1.5,20000,Cilacap,Pekalongan
+Vava,Audrey,Kipas Angin,Reguler,0.5,10000,Kebumen,Batang
+Wawan,Lili,Shampo,Satset,2,22000,Purworejo,Kendal
+Jaja,Rizki,Kemeja,Satset,3.5,20000,Magelang,Demak
+Karis,Joe,Jas Lab,Express,2.5,15000,Boyolali,Kudus
+Lia,Lista,Boneka Mini,Reguler,4,10000,Sragen,Pati
+Lala,Elis,Tisu Basah,Satset,3,22000,Karanganyar,Rembang
+Dea,Ima,Gantungan Kunci,Reguler,2.4,12000,Sukorejo,Blora
+Desi,Santika,Topi Pantai,Reguler,2.6,15000,Klaten,Wonogiri
+Ello,Noer,Hanger pakaian,Reguler,3,15000,Wonogiri,Temanggung
+Eka,Jafar,Mukena,Reguler,1.2,8000,Temanggung,Wonosobo
+Sasa,Loudi,Sajadah,Reguler,2,6000,Wonosobo,Banjar
+Sari,Andika,Sarung,Express,3,13000,Banjar,Purbalingga
+Seli,Syahrul,Flat Shoes,Satset,1.5,22000,Purbalingga,Banyumas
+Sofia,Safira,Talenan,Reguler,0.5,10000,Banyumas,Cilacap
+Naza,Jessica,Kacamata,Reguler,2,15000,Cilacap,Kebumen
+Opet,Vynda,Jaket,Express,3.5,15000,Kebumen,Purworejo
+Aji,Arni,Hoodie,Reguler,2.5,12000,Purworejo,Magelang
+Rara,Aksa,Celana Jeans,Express,4,15000,Magelang,Boyolali
+Ramzi,Yudhis,Sarung Bantal,Satset,3,20000,Boyolali,Sragen
+Nia,Bryan,Beras,Reguler,2,10000,Sragen,Karanganyar
+Nofia,Kharisma,Sagu,Satset,3,22000,Karanganyar,Sukorejo
+Vanza,Putra,Tomat,Reguler,1,12000,Sukorejo,Klaten
+Frexa,Pasha,Vas Bunga,Express,0.5,20000,Klaten,Wonogiri
+Moi,Lexi,Cabai,Reguler,2.5,15000,Wonogiri,Brebes
+Moli,Gery,Rautan,Satset,3,18000,Brebes,Tegal
+Nahwan,Evelyn,Tempat Pensil,Express,4,11000,Tegal,Pemalang
+Aksay,Bagus,Selimut,Reguler,1.5,12000,Pemalang,Pekalongan
+Rafi,Brigita,Barbie,Express,0.5,15000,Pekalongan,Brebes
+Naufal,Tian,Swallow,Satset,2,20000,Batang,Tegal
+Axel,Galang,Sandal,Reguler,3.5,8000,Kendal,Pemalang
+Aurel,Kukuh,Hoodie,Reguler,2.5,15000,Demak,Pekalongan
+Aan,Tiara,Ciput,Satset,0.5,25000,Kudus,Batang
+Bayu,Santhi,Peci,Reguler,2,12000,Pati,Kendal
+Solem,Doni,Bantal Penghangat,Express,3.5,15000,Rembang,Demak
+Saryu,Dinaar,Totebag,Reguler,2.5,15000,Blora,Kudus
+Suryo,Lola,Binder,Satset,4,22000,Grobogan,Pati
+Nawa,Paramita,Buku,Satset,3,25000,Semarang,Rembang
+Nofal,Vany,Tas Ransel,Reguler,2.4,8000,Temanggung,Blora
+Leo,Made,Mouse,Reguler,3,6000,Wonosobo,Grobogan
+Loius,Mela,Speaker,Satset,4,16000,Wonosobo,Semarang
+Lexi,Carla,Charger,Reguler,1.5,8000,Banjar,Temanggung
+Manda,Mareta,Gerabah,Express,0.5,17000,Purbalingga,Wonosobo
+Moi,Erika,Bola Basket,Reguler,2,10000,Banyumas,Banjar
+Majis,Ines,Bola Voli,Satset,3.5,25000,Cilacap,Purbalingga
+Luxe,Yuyun,Bola Pimpong,Express,2.5,15000,Kebumen,Banyumas
+Roy,Natasha,Raket Nyamuk,Reguler,3,12000,Purworejo,Cilacap
+Reta,Novi,Baju Training,Reguler,1.5,10000,Magelang,Kebumen
+Ray,Agni,Sabuk,Reguler,0.5,10000,Boyolali,Purworejo
+Xavier,Zahra,Dasi,Express,2,15000,Sragen,Magelang
+Jafir,Xion,Koran,Satset,3.5,22000,Karanganyar,Boyolali
+Jeje,Atar,Majalah,Satset,2.5,22000,Sukorejo,Sragen
+Hao,Putri,Kamus,Express,4,13000,Brebes,Karanganyar
+Gani,Fina,Parfum,Reguler,3,6000,Tegal,Sukorejo
+Gita,Anggraini,Baskom,Satset,2.4,22000,Pemalang,Cilacap
+Fizik,Dika,Jarik,Reguler,3,10000,Pekalongan,Kebumen
+Fizkia,Aisyah,Selendang,Reguler,1.2,10000,Batang,Purworejo
+Fauzan,Maharani,Kipas Mini,Reguler,2,8000,Kendal,Magelang
+Maura,Tiwi,Botol,Express,3,20000,Demak,Boyolali
+Kai,Jonathan,Penggaris,Reguler,1.5,15000,Kudus,Sragen
+Loui,Richard,Pulpen,Reguler,0.5,12000,Pati,Karanganyar
+Jenab,Sri,Rak kosmetik,Express,2,15000,Rembang,Sukorejo
+Jojo,Ningsih,Sepatu Boot,Satset,3.5,25000,Blora,Brebes
+Luqy,Mikha,Baju Renang,Reguler,2.5,12000,Grobogan,Tegal
+Fafa,Avin,Rok,Reguler,4,8000,Brebes,Pemalang
+Doni,Dheo,Pompa Galon,Express,2,11000,Tegal,Pekalongan
+Juan,Selin,Sendok,Reguler,1.5,12000,Pemalang,Batang
+Yoyok,Selly,Garpu,Express,1.9,15000,Pekalongan,Kendal
+Parman,Gerald,Sabun,Reguler,2,10000,Batang,Demak
+Poki,Nurma,Tas Slempang,Reguler,2.4,8000,Kendal,Kudus
+Gaga,Dania,Dompet,Satset,2.6,25000,Demak,Pati
+Cinta,Mayang,Balok,Reguler,3,15000,Kudus,Rembang
+Vare,Tirta,Lampu,Express,1.2,17000,Pati,Blora
+Tata,Glen,Bunga Plastik,Reguler,2,10000,Rembang,Grobogan
+Tina,Billy,Dompet Kulit,Satset,2,22000,Sukorejo,Brebes
+Ema,Fahreza,Gayung,Express,3,13000,Brebes,Tegal
+Wawan,Hasan,Ember ,Reguler,1,6000,Tegal,Pemalang
+Faza,Fauza,Hijab Segiempat,Express,0.5,17000,Pemalang,Pekalongan
+Firza,Rania,HIjab Pashmina,Reguler,2.5,10000,Pekalongan,Batang
+Melki,Evi,Tupperware,Reguler,3,10000,Batang,Kendal
+Momoi,Farah,Cermin,Express,4,13000,Kendal,Demak
+Kauf,Rea,Handuk,Reguler,5,15000,Demak,Kudus
+Reno,Rina,Sabun Muka,Reguler,3,15000,Kudus,Pati
